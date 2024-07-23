@@ -1,0 +1,9 @@
+ultralytics
+roboflow
+wget
+
+numpy
+torch
+pandas
+opencv-contrib-python
+constants
